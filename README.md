@@ -1,2 +1,2 @@
 # Uraraka
-Open source Reddit browser.
+Open source anime streaming application.
